@@ -1,0 +1,24 @@
+# APK and Binaries
+*.apk
+*.dex
+
+# Decompiled artifacts
+decompiled/
+decompiled_res/
+
+# Extracted tools (jadx, etc.)
+bin/
+lib/
+*.zip
+*.tar
+*.tar.gz
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+.idea/
+.vscode/
+*.swp
+*~
